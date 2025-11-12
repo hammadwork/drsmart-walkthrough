@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FoodClick Restaurant App Walkthrough",
-  description: "FoodClick Restaurant App Walkthrough for customers to understand the app and its features",
+  title: "DrSmart Walkthrough",
+  description: "DrSmart Walkthrough for customers to understand the app and its features",
 };
 
 export default function RootLayout({
