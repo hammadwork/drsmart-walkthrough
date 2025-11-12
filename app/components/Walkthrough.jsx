@@ -22,6 +22,7 @@ export default function Walkthrough({ data = sampleWalkthrough }) {
       <div className="mx-auto max-w-6xl px-4">
         <header className="mb-6 flex items-center justify-between">
           <div className="flex items-center gap-3">
+            
             <Image src="/logo.png" alt="Foodclick" width={140} height={32} />
             <span className="hidden text-sm font-medium text-zinc-600 sm:inline">DrSmart Walkthrough</span>
           </div>
